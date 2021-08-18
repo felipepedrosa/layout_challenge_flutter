@@ -1,16 +1,10 @@
 # layout_challenge_flutter
 
-A new Flutter project.
+## Descrição
+- Projeto simples para cumprir um desafio do
+  curso: [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+- O desafio era simples, apenas criar Containers em Columns e Rows e alinhar como na imagem abaixo:
+  ![Desafio finalizado](finalizado.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Testar
+  - Para testar o projeto basta clonar o repositório ```git clone https://github.com/felipepedrosa/layout_challenge_flutter.git``` navegar até a pasta e executar com o comando ```flutter run```
